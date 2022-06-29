@@ -1,10 +1,40 @@
 # flutter_budget_ui
 
-A new Flutter project.
+A Flutter made app for budgeting.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+What the project looks like:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
