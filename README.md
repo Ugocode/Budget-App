@@ -6,6 +6,8 @@ A Flutter made app for budgeting.
 
 What the project looks like:
 
+<img src="./home.png" width=250 height=500 >  <img src="./food.png" width=250 height=500 > </div> <img src="./food1.png" width=250 height=500 >  <img src="./clothing.png" width=250 height=500 > </div> <img src="./housing.png" width=250 height=500 >
+
 
 
 
