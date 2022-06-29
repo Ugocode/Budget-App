@@ -129,7 +129,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: Padding(
                   padding: const EdgeInsets.all(2.0),
                   child: Text(
-                    'My Budget App',
+                    'Your Budget App',
                     style: TextStyle(
                         color: Colors.pink[300], fontWeight: FontWeight.bold),
                   ),
