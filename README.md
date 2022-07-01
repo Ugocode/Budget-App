@@ -1,6 +1,6 @@
 # flutter_budget_ui
 
-A Flutter made app for budgeting.
+A Flutter made UI app for budgeting.
 
 ## Getting Started
 
